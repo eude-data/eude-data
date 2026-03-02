@@ -1,49 +1,48 @@
-# Hi, I'm Eude 👋
+# Bonjour, je suis Eude 👋
 
-> **Mathematics Teacher · Master's Student in Statistics & Quantitative Finance · Aspiring Data Scientist**
+> **Enseignant en Mathématiques · Étudiant M2 Statistiques & Finance Quantitative · Data Scientist en devenir**
 
-I'm currently pursuing an **M2 ISIFAR** (Statistics, Computer Science, Finance, Insurance & Risk) at *Université Paris Cité*, while teaching mathematics and building projects at the intersection of **quantitative finance**, **machine learning**, and **mathematical education**.
-
----
-
-## 🧠 About Me
-
-- 📍 Based in France (Versailles Academy) | Seeking internship in **Canada** (2026)
-- 🎓 M2 ISIFAR @ Université Paris Cité — specializing in stochastic modeling & financial mathematics
-- 📊 Former intern in statistical analysis (time series: ARIMA, VAR, VECM)
-- 🏦 Focus areas: **interest rate models**, **factor investing**, **risk modeling**
-- 🎨 Creator of **[GeromEtrie](https://www.tiktok.com/@geromEtrie)** — math education videos with Python/Manim
+Actuellement en **M2 ISIFAR** (Statistiques, Informatique, Finance, Assurance & Risque) à l'*Université Paris Cité*, j'enseigne les mathématiques en parallèle et je construis des projets à l'intersection de la **finance quantitative**, du **machine learning** et des **mathématiques appliquées**.
 
 ---
 
-## 🔬 Featured Projects
+## 🧠 À propos
 
-| Project | Description | Stack |
+- 📍 Etudiant en France · Disponible pour un stage en **finance quantitative / data science** (2026)
+- 🎓 M2 ISIFAR @ Université Paris Cité — spécialisation en modélisation stochastique & mathématiques financières
+- 📐 Enseignant en mathématiques — Acadomia
+- 📊 12 mois d'expérience en analyse statistique (séries temporelles : ARIMA, VAR, VECM)
+- 🏦 Domaines de prédilection : **modèles de taux d'intérêt**, **gestion de portefeuille**, **modélisation du risque**
+
+---
+
+## 🔬 Projets mis en avant
+
+| Projet | Description | Stack |
 |---|---|---|
-| [QRT Challenge](./qrt-challenge) | Factor-based stock return prediction with orthonormal matrices & Monte Carlo | Python, NumPy, SciPy |
-| [SABR-LIBOR Junction](./sabr-libor) | Stochastic rate models based on Mercurio & Morini (2009) | Python, LaTeX |
-| [Road Accident Analysis](./road-accidents-rf) | Random Forest on 10 years of French road accident data — AUC 0.727 | R, Python |
-| [GeromEtrie Animations](./geromEtrie-manim) | Mathematical animations for educational content | Python, Manim |
+| [Gestion d'actifs & Data Mining](./gestion-actifs-sp500) | Stratégie CTA sur le S&P 500, PCA, graphe de corrélations & MST | Python, scikit-learn, networkx |
+| [Accidents de la route — IDF](./accidents-route-idf) | LDA, Random Forest, Régression logistique sur données BAAC 2024 — AUC 0.74 | R, ggplot2, randomForest |
+| [QRT Data Challenge](./qrt-challenge) | Prédiction de rendements actions via matrices orthonormées & Monte Carlo | Python, NumPy, SciPy |
+| [Modèles SABR–LIBOR](./sabr-libor) | Jonction SABR / LMM d'après Mercurio & Morini (2009) | Python, LaTeX |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack technique
 
 ```python
-languages  = ["Python", "R", "SQL", "LaTeX"]
-ml_stats   = ["scikit-learn", "Random Forest", "ARIMA", "VAR/VECM", "Monte Carlo"]
-finance    = ["SABR", "LIBOR", "HJM", "Ho-Lee", "Bond Pricing", "SDE"]
-tools      = ["Manim", "Jupyter", "Git", "pandas", "NumPy", "SciPy"]
+langages   = ["Python", "R", "SQL", "LaTeX"]
+ml_stats   = ["scikit-learn", "Random Forest", "ARIMA", "VAR/VECM", "Monte Carlo", "PCA"]
+finance    = ["SABR", "LIBOR", "HJM", "Ho-Lee", "Pricing obligataire", "EDS"]
+outils     = ["Jupyter", "Git", "pandas", "NumPy", "SciPy", "networkx", "ggplot2"]
 ```
 
 ---
 
-## 📫 Connect
+## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eude-gero-dekadjevi-56924722a)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@geromEtrie)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eudegerodekadjevi@gmail.com)
 
 ---
 
-*"Mathematics is not about numbers, equations, or algorithms: it is about understanding."* — William Paul Thurston
+*« Les mathématiques ne sont pas une discipline, c'est une façon de penser. »*
