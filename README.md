@@ -8,9 +8,9 @@ Actuellement en **M2 ISIFAR** (Statistiques, Informatique, Finance, Assurance & 
 
 ## 🧠 À propos
 
-- 📍 Etudiant en France · Disponible pour un stage en **finance quantitative / data science** (2026)
-- 🎓 M2 ISIFAR @ Université Paris Cité — spécialisation en modélisation stochastique & mathématiques financières
-- 📐 Enseignant en mathématiques — Acadomia
+- 📍 Basé en France · Disponible pour un stage en **finance quantitative / data science** (2026)
+- 🎓 M2 ISIFAR @ Université Paris Cité - spécialisation en modélisation stochastique & mathématiques financières
+- 📐 Enseignant contractuel en mathématiques - Académie de Versailles
 - 📊 12 mois d'expérience en analyse statistique (séries temporelles : ARIMA, VAR, VECM)
 - 🏦 Domaines de prédilection : **modèles de taux d'intérêt**, **gestion de portefeuille**, **modélisation du risque**
 
@@ -21,8 +21,10 @@ Actuellement en **M2 ISIFAR** (Statistiques, Informatique, Finance, Assurance & 
 | Projet | Description | Stack |
 |---|---|---|
 | [Gestion d'actifs & Data Mining](./gestion-actifs-sp500) | Stratégie CTA sur le S&P 500, PCA, graphe de corrélations & MST | Python, scikit-learn, networkx |
-| [Accidents de la route — IDF](./accidents-route-idf) | LDA, Random Forest, Régression logistique sur données BAAC 2024 — AUC 0.74 | R, ggplot2, randomForest |
-| [QRT Data Challenge](./qrt-challenge) | Prédiction de rendements actions via matrices orthonormées & Monte Carlo | Python, NumPy, SciPy |
+| [Accidents de la route — IDF](./accidents-route-idf) | LDA, Random Forest, Régression logistique sur données BAAC 2024 - AUC 0.74 | R, ggplot2, randomForest |
+| [QRT Data Challenge](./qrt-challenge) | Prédiction de rendements actions via matrices orthonormées & Monte Carlo *(En cours)* | Python, NumPy, SciPy |
+| [Modèles SABR–LIBOR](./sabr-libor) | Jonction SABR / LMM d'après Mercurio & Morini (2009) *(Bientôt)* | Python, LaTeX |
+| [WGAN vs Score-Based Models](./wgan-sgm) | Comparaison de modèles génératifs sur données financières synthétiques *(En cours)* | Python, PyTorch |
 | [Modèles SABR–LIBOR](./sabr-libor) | Jonction SABR / LMM d'après Mercurio & Morini (2009) | Python, LaTeX |
 
 ---
