@@ -1,4 +1,4 @@
-# Bonjour, je suis Eude 👋
+# Bonjour, je suis Eude 👋 
 
 > **Enseignant en Mathématiques · Étudiant M2 Statistiques & Finance Quantitative · Data Scientist en devenir**
 
