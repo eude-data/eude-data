@@ -20,12 +20,12 @@ Actuellement en **M2 ISIFAR** (Statistiques, Informatique, Finance, Assurance & 
 
 | Projet | Description | Stack |
 |---|---|---|
-| [Gestion d'actifs & Data Mining](./gestion-actifs-sp500) | Stratégie CTA sur le S&P 500, PCA, graphe de corrélations & MST | Python, scikit-learn, networkx |
-| [Accidents de la route — IDF](./accidents-route-idf) | LDA, Random Forest, Régression logistique sur données BAAC 2024 - AUC 0.74 | R, ggplot2, randomForest |
-| [QRT Data Challenge](./qrt-challenge) | Prédiction de rendements actions via matrices orthonormées & Monte Carlo *(En cours)* | Python, NumPy, SciPy |
-| [Modèles SABR–LIBOR](./sabr-libor) | Jonction SABR / LMM d'après Mercurio & Morini (2009) *(Bientôt)* | Python, LaTeX |
-| [WGAN vs Score-Based Models](./wgan-sgm) | Comparaison de modèles génératifs sur données financières synthétiques *(En cours)* | Python, PyTorch |
-| [Modèles SABR–LIBOR](./sabr-libor) | Jonction SABR / LMM d'après Mercurio & Morini (2009) | Python, LaTeX |
+| [Gestion d'actifs & Data Mining]( https://github.com/eude-data/gestion-actifs-sp500) | Stratégie CTA sur le S&P 500, PCA, graphe de corrélations & MST | Python, scikit-learn, networkx |
+| [Accidents de la route — IDF](https://github.com/eude-data/accidents-route-idf) | LDA, Random Forest, Régression logistique sur données BAAC 2024 - AUC 0.74 | R, ggplot2, randomForest |
+| [QRT Data Challenge](https://github.com/eude-data/qrt-challenge) | Prédiction de rendements actions via matrices orthonormées & Monte Carlo *(En cours)* | Python, NumPy, SciPy |
+| [Modèles SABR–LIBOR](https://github.com/eude-data/sabr-libor) | Jonction SABR / LMM d'après Mercurio & Morini (2009) *(Bientôt)* | Python, LaTeX |
+| [WGAN vs Score-Based Models](https://github.com/eude-data/wgan-sgm) | Comparaison de modèles génératifs sur données financières synthétiques *(En cours)* | Python, PyTorch |
+
 
 ---
 
