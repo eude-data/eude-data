@@ -21,7 +21,7 @@ Actuellement en **M2 ISIFAR** (Statistiques, Informatique, Finance, Assurance & 
 |---|---|---|
 | [Gestion d'actifs & Data Mining](https://github.com/eude-data/gestion-actifs-sp500) | Stratégie CTA sur le S&P 500, PCA, graphe de corrélations & MST | Python, scikit-learn, networkx |
 | [Accidents de la route — IDF](https://github.com/eude-data/accidents-route-idf) | LDA, Random Forest, Régression logistique sur données BAAC 2024 - AUC 0.74 | R, ggplot2, randomForest |
-| [QRT Data Challenge](https://github.com/eude-data/Challenges-QRT) | Prédiction de rendements actions via matrices orthonormées & Monte Carlo *(En cours)* | Python, NumPy, SciPy |
+| [QRT Data Challenge](https://github.com/eude-data/Challenges-QRT) | Prédiction de rendements actions via matrices orthonormées & Monte Carlo | Python, NumPy, SciPy |
 | [Black-Scholes Pricing Engine](https://github.com/eude-data/bs-pricing-engine) | Grecques analytiques, options asiatiques, delta de Malliavin | Python, NumPy, SciPy |
 | [Volatilité Implicite & Heston](https://github.com/eude-data/implied-vol-heston) | Vol implicite (Newton/bisection), simulation smile de vol via Heston MC | Python, NumPy, SciPy |
 | [Monte Carlo — Réduction de Variance](https://github.com/eude-data/montecarlo-variance-reduction) | Variables antithétiques, importance sampling, options barrières | Python, NumPy, SciPy |
