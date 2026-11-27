@@ -4,8 +4,6 @@ Data Analyst en stage de fin d'études chez 24S (Groupe LVMH), au sein de l'équ
 
 Je termine mon stage en décembre et je suis disponible en CDI à partir de janvier 2027, partout en France, sur des postes en data analyse, data science, gestion des risques, finance quantitative, actuariat ou pricing.
 
-Portfolio : [version data](https://eude-data.github.io) et [version finance](https://eude-data.github.io/finance)
-
 ## Parcours
 
 - **24S, Groupe LVMH** (juillet à décembre 2026) : Data Analyst. Modèle d'attribution du chiffre d'affaires par canal, tableaux de bord Looker Studio, requêtes BigQuery et analyses du parcours client.
